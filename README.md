@@ -48,6 +48,7 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 [js-standard-url]: http://standardjs.com/
 [js-standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 
-[npm-url]: https://npmjs.org/package/@kyungw00k/find-referrer
-[npm-image]: https://img.shields.io/npm/v/@kyungw00k/find-referrer.svg?style=flat-square
-[npm-download]: https://img.shields.io/npm/dm/@kyungw00k/find-referrer.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/find-referrer
+[npm-image]: https://img.shields.io/npm/v/find-referrer.svg?style=flat-square
+[npm-download]: https://img.shields.io/npm/dm/find-referrer.svg?style=flat-square
+
